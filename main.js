@@ -38,7 +38,7 @@ console.log ("Which Famous Dictator I am");
 alert("This game allows you to find out which famous dictator had the same character traits as you. The bad guy you would had been if you were born in the same historical context");
 
 let backgroundInformation = function(){
-    let placeOfBirth = prompt("Where is your place of birth ?", "Country");
+    let placeOfBirth = prompt("Where is your place of birth?", "Country");
     let college = prompt("Which college did you attend?");
     let fieldOfStudy = prompt("What is your field of study?");
     let profession = prompt("What is your profession?");
