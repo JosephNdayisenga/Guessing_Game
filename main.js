@@ -30,7 +30,7 @@ if(age){
     document.getElementById('Age-of-the-candidate').innerText = firstName + " was born in " + age
 }
 
-let game = confirm("Do you want to play a game?");
+let game = confirm("Do you want to play a game? ");
 
 alert("Which Famous Dictator I am ?");
 console.log ("Which Famous Dictator I am");
